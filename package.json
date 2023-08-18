@@ -11,8 +11,11 @@
   "dependencies": {
     "@types/axios": "^0.14.0",
     "axios": "^1.4.0",
+    "chart.js": "^4.3.3",
+    "pinia": "^2.1.6",
     "sass": "^1.65.1",
     "vue": "^3.3.4",
+    "vue-router": "4",
     "vuetify": "^3.3.10"
   },
   "devDependencies": {
